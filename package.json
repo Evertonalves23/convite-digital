@@ -1,0 +1,18 @@
+{
+  "name": "convite-react-motion",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "latest",
+    "vite": "latest",
+    "@vitejs/plugin-react": "latest"
+  }
+}
